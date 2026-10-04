@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Backgroundcolourist;
+namespace BGPainter;
 
 /// <summary>
 /// Interaction logic for App.xaml
